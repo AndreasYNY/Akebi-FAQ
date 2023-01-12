@@ -8,7 +8,7 @@
 - [Tutorials](#tutorials)
 
 # FAQ
-<h2><details><summary>How do i inject Akebi?</summary>
+<details><summary>How do i inject Akebi?</summary>
 Go to installation section.
 </details>
 <details><summary>How do i open the cheat menu?</summary>
@@ -18,11 +18,11 @@ Go to installation section.
 <b>By Injecting Akebi, you are breaking Mihoyo's TOS. If you don't want to get banned, don't use cheats.</b>
 </details>
 <details><summary>Is X feature safe to use?</summary>
-<b>People generally had different results when using a certain feature. anything with orange text next to it is risky to use.</b>
+People generally had different results when using a certain feature. anything with orange text next to it is risky to use.
 </details>
 <details><summary>How do i use X feature?</summary>
-Check out the (?) next to the cheat option!  
-<img src="https://i.imgur.com/QGej2bv.png"/>
+Check out the (?) next to the cheat option! <br> 
+<img src="https://i.imgur.com/QGej2bv.png"/> <br>
 Or you could check out the tutorial Section for spesific features.
 </details>
 <details><summary>Genshin & Console launched, but F1 didn't do anything!</summary>
@@ -45,7 +45,7 @@ Akebi works by editing program memory...thats also what some viruses do.
 </details>
 <details><summary>There is this bug....</summary>
 Go to #Support
-</details></h2>
+</details>
 
 # Pre-installation
 Before installing Akebi, you will need to install: 
