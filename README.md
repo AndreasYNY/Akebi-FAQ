@@ -74,6 +74,7 @@ First off, we will need to download akebi.
 <!-- Linux tutorial -->
 
 # Tutorials
-To make this easy to read as possible, this section will be only lists of tutorials.
+To make this easy to read as possible, this section will be only lists of tutorials.  
+If there any tutorial you might want me to add or you want to add some, just do issues/pr!
   
-1. Auto Teleport tutorial using JSON.
+1. [Auto Teleport tutorial using JSON.](https://github.com/AndreasYNY/Akebi-FAQ/blob/main/AutoTeleport.md)
