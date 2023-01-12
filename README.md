@@ -44,7 +44,7 @@ Disable your Anti Virus software.
 Akebi works by editing program memory...thats also what some viruses do.
 </details>
 <details><summary>There is this bug....</summary>
-Go to #Support
+Go to <a href="https://discord.com/channels/440536354544156683/1011905367384539176">#Support</a>.
 </details>
 
 # Pre-installation
